@@ -31,7 +31,7 @@ async function Home() {
           </p>
 
           <Button asChild className="w-fit !bg-primary-200 !text-dark-100 hover:!bg-primary-200/80 !rounded-full !font-bold px-5 cursor-pointer min-h-10 max-sm:w-full">
-            <Link href="/interview">Start an Interview</Link>
+            <Link href="/interview">Start a Conversation With AI</Link>
           </Button>
         </div>
 
